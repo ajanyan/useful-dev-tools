@@ -100,6 +100,7 @@
 [Glassmorphism](https://www.glassmorphism.com) | A design style to connect and combine all of the uses of the “frosted glass” effect in the UI.
 [Gleek.io](https://www.gleek.io) | Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyboard.
 [Glitch](https://glitch.com/) | Build fast, full-stack web apps in your browser with instant hosting, automated deployment, and live help from community members.
+[Google Cloud](https://cloud.google.com/) | Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube.
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
 [Google Fonts](https://fonts.google.com/) | Google Fonts is a library of 1455 free & open source font families and APIs for convenient use via CSS and Android.
 [grep.app](https://grep.app/) | Searches code from over a half million public repositories on GitHub, matching the exact string you enter or even regular expressions.
